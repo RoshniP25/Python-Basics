@@ -1,0 +1,13 @@
+===== FOOD ORDERING SYSTEM - BILL =====
+Date & Time: 2026-06-30 17:54:07.344582
+----------------------------------------
+No.  Item                 Qty      Total   
+----------------------------------------
+1    Pepperoni            3        ₹1050    
+2    Veg Burger           2        ₹300     
+----------------------------------------
+Subtotal: ₹1350
+GST @ 12%: ₹162
+Coupon (NEW10) Discount: -₹135
+Grand Total: ₹1377
+Thank you for ordering with us!
